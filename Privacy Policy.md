@@ -21,7 +21,7 @@ The Information We Collect And Store
 We may collect and store the following information when running the
 Long Access Service:
 
-Information You Provide.
+Information You Provide.  
 When you register to create a user account, we collect some personal
 information, which may include your name, phone number, credit card
 or other billing information, email address and home and business
@@ -39,11 +39,11 @@ cease to have a user account with Long Access, some of your personal
 information will survive such user account as part of your archives’
 metadata.
 
-Archives.
+Archives.  
 We collect and store the files you upload, download, or access with
 the Long Access Service (“Archives”).
 
-Log Data.
+Log Data.  
 When you use the Service, we automatically record information from
 your Device, its software, and your activity using the Services. This
 may include the Device’s Internet Protocol (“IP”) address, browser
@@ -56,7 +56,7 @@ interactions with the Service. Long Access retention policy may be
 longer than usually expected for such data in accord with the
 duration of the Services (30 years).
 
-Cookies.
+Cookies.  
 We also use “cookies” to collect information and improve our
 Services. A cookie is a small data file that we transfer to your
 Device. We may use “persistent cookies” to save your registration ID
