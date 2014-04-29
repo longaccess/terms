@@ -36,8 +36,6 @@ encryption, the standard for secure Internet network connections.
 
 Your files are sent between Long Access’s mobile apps and our servers
 over a secure channel using 256-bit SSL encryption where supported.
-Not all mobile media players support encrypted streaming, so media
-files streamed from our servers are not always encrypted.
 
 Data Durability and Reliability
 
