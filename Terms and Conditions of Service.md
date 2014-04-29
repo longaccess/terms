@@ -45,7 +45,8 @@ Privacy Policy, no matter how the Services change, we shall not share
 your content with others, including law enforcement, with the
 exception of an Archive Certificate holder for your archives, for any
 purpose unless you direct us to. How we collect and use your
-information generally is also explained in our Privacy Policy.
+information generally is also explained in our 
+[Privacy Policy](http://the.longaccess.com/terms/privacy_policy/).
 
 You are solely responsible for your conduct, the content of your
 archives, and your communications with others while using the
