@@ -159,8 +159,8 @@ other brand features.
 Acceptable Use Policy
 
 You will not, and will not attempt to, misuse the Services, and will
-use the Services only in a manner consistent with the Acceptable Use
-Policy.
+use the Services only in a manner consistent with the 
+[Acceptable Use Policy](http://the.longaccess.com/terms/acceptable_use_policy/).
 
 Copyright
 
