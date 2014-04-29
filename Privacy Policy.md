@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Modified: January 13, 2014
+Last Modified: April 29, 2014
 
 This Privacy Policy provides our policies and procedures for
 collecting, using, and disclosing your information. Users can access
@@ -34,7 +34,7 @@ page, we send them a one-time email for that referral. When you
 upload your archives some of this personal information may form part
 of the metadata associated with your archives, as described in our
 Terms and Conditions of Service. Such metadata have the same life
-span as the corresponding Capsule(s). This means that even if you
+span as the corresponding Archive(s). This means that even if you
 cease to have a user account with Long Access, some of your personal
 information will survive such user account as part of your archives’
 metadata.
@@ -71,8 +71,7 @@ to use all aspects of the Service.
 
 How We Use Personal Information
 
-Personal Information.
-
+Personal Information.  
 In the course of using the Service, we may collect personal
 information that can be used to contact or identify you (“Personal
 Information”). Personal Information is or may be used: (i) to provide
@@ -85,7 +84,6 @@ by following the unsubscribe link instructions provided in any of
 those communications, or update your account settings information.
 
 Geo-Location Information.
-
 Some Devices allow applications to access real-time location-based
 information (for example, GPS). Our mobile apps do not collect such
 information from your mobile device at any time while you download or
@@ -94,8 +92,7 @@ may do so in the future with your consent to improve our Services.
 Also, some of the information we collect from a Device, for example
 IP address, can sometimes be used to approximate a Device’s location.
 
-Analytics.
-
+Analytics.  
 We also collect some information (ourselves or using third party
 services) using logging and cookies, such as IP address, which can
 sometimes be correlated with Personal Information. We use this
@@ -110,7 +107,7 @@ click here.
 
 Information Sharing and Disclosure
 
-Your Use.
+Your Use.  
 
 Your Personal Information will be displayed on your user profile
 page. Some of Your Personal Information such as your name and email
@@ -125,7 +122,7 @@ technically feasible for them to do so. We may also share or disclose
 your information with your consent, for example if you use a third
 party application to access your account (see below).
 
-Service Providers, Business Partners and Others
+Service Providers, Business Partners and Others.  
 
 We may use certain trusted third party companies and individuals to
 help us provide, analyze, and improve the Service (including but not
@@ -138,7 +135,7 @@ this policy went into effect, we use Amazon’s S3 storage and Amazon’s
 Glacier services to store some of your information (for example, your
 Files).
 
-Third-Party Applications
+Third-Party Applications.  
 
 We may share your information with a third party application with
 your consent, for example when you choose to access our Services
@@ -159,7 +156,7 @@ Access or its users; or (d) to protect Long Access’s property rights.
 However, Long Access will not be able to decrypt any files that you
 encrypted prior to storing them on Long Access.
 
-Business Transfers
+Business Transfers.
 
 If we are involved in a merger, acquisition, or sale of all or a
 portion of our assets, your information may be transferred as part of
@@ -169,7 +166,7 @@ use of your Personal Information or Files, or if either become
 subject to a different Privacy Policy. We will also notify you of
 choices you may have regarding the information.
 
-Non-Private or Non-Personal Information
+Non-private or Non-Personal Information.  
 
 We may disclose your non-private, aggregated, or otherwise
 non-personal information, such as usage statistics of our Service.
@@ -209,7 +206,7 @@ deletion. Your personal account information included in the metadata
 of your archives such as your name and email address, cannot be
 deleted in any case; as metadata, they are an integral part of your
 archives from the minute of upload thereof and will be retained for
-the life time of each corresponding Capsule.
+the life time of each corresponding Archive. 
 
 Long Access Community
 
@@ -239,8 +236,8 @@ Additionally, our software encrypts your Files on your computer,
 before submission, using AES256. No method of electronic transmission
 or storage is 100% secure, however. Therefore, we cannot guarantee
 its absolute security. If you have any questions about security on
-our website, you can view our Security Overview page or contact us at
-security@longaccess.com.
+our website, you can view our [Security Overview Page](http://the.longaccess.com/terms/security_overview/)
+or contact us at security@longaAccess.com.
 
 Our Policy Toward Children
 

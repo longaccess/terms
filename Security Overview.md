@@ -1,6 +1,6 @@
 Security Overview
 
-Last Modified: January 13, 2014
+Last Modified: April 29, 2014
 
 We provide this overview so that you can better understand the
 security measures we’ve put in place to protect the information that
@@ -39,12 +39,24 @@ over a secure channel using 256-bit SSL encryption where supported.
 Not all mobile media players support encrypted streaming, so media
 files streamed from our servers are not always encrypted.
 
-Your Data is Backed Up
+Data Durability and Reliability
 
 Amazon keeps redundant backups of all data over multiple locations to
 prevent the remote possibility of data loss. Specifically:
 
-Amazon's S3's Standard storage is:
+Amazon S3 provides a highly durable storage infrastructure designed
+for mission-critical and primary data storage. The service
+redundantly stores data in multiple facilities and on multiple
+devices within each facility. To increase durability, Amazon S3
+synchronously stores your data across multiple facilities before
+returning SUCCESS. In addition, Amazon S3 calculates checksums on all
+network traffic to detect corruption of data packets when storing or
+retrieving data. Unlike traditional systems which can require
+laborious data verification and manual repair, Amazon S3 performs
+regular, systematic data integrity checks and is built to be
+automatically self-healing.
+
+Amazon S3’s standard storage is:
 
 - Backed with the Amazon S3 Service Level Agreement.
 - Designed for 99.999999999% durability and 99.99% availability of
@@ -67,7 +79,7 @@ upload dates). In addition, we employ a number of physical and
 electronic security measures to protect user information from
 unauthorized access.
 
-Third-Party Applications
+Third-party Applications
 
 If you choose to access Long Access using third-party applications
 (“apps”), be aware that those apps utilize their own security

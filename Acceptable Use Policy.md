@@ -1,6 +1,6 @@
 Acceptable Use Policy
 
-Last Modified: January 13, 2014
+Last Modified: April 29, 2014
 
 We are proud of the trust placed in us. In exchange, we trust you to
 use our services responsibly.
@@ -18,7 +18,7 @@ limits, but you can be sure that sharing an Archive Certificate with
 10 people is inside the intended use limits. If you intend to share
 Archive Certificates with a significantly larger number of people
 (for example, all students attending your class), please let us now
-before purchasing a Capsule.
+before purchasing Long Access Storage Space.
 
 Our service is not intended for public file sharing. We may
 automatically limit access to a specific archive for a short period

@@ -1,6 +1,6 @@
 Terms and Conditions of Service
 
-Last Modified: January 13, 2014
+Last Modified: April 29, 2014
 
 Thank you for using Long Access! These terms of service (the “Terms”)
 govern your access to and use of Long Access (“we” or “our”) websites
@@ -10,7 +10,7 @@ using the Services.
 By using the Services you agree to be bound by these Terms. If you
 are using the Services on behalf of an organization, you are agreeing
 to these Terms for that organization and promising that you have the
-authority to bind that organization to these Terms. In that case,
+authority to bind that organization to these terms. In that case,
 “you” and “your” will refer to that organization.
 
 You may use the Services only in compliance with these Terms. You may
@@ -22,15 +22,15 @@ add more features.
 Your Archives & Your Privacy
 
 By using our Services you provide us with information, files, and
-folders that you submit to Long Access (together, “your archives”).
-You retain full ownership of the content of your archives. We don’t
+folders that you submit to Long Access (together, “Your Archives”).
+You retain full ownership of the content of Your Archives. We don’t
 claim any ownership to such content. These Terms do not grant us any
-rights to the content of your archives or intellectual property,
+rights to the content of Your Archives or intellectual property,
 except for the limited rights that are needed to run the Services, as
 explained below.
 
 In providing the Services we shall not require any permission from
-you with regards to your archives. This includes design choices we
+you with regards to Your Archives. This includes design choices we
 make to technically administer our Services, for example, how we
 redundantly backup data to keep it safe. By signing these Terms of
 Service You give us the permissions we need to proceed to all
@@ -43,25 +43,25 @@ Services.
 To be clear, aside from the rare exceptions we identify in our
 Privacy Policy, no matter how the Services change, we shall not share
 your content with others, including law enforcement, with the
-exception of an Archive Certificate holder for your archives, for any
+exception of an Archive Certificate holder for Your Archives, for any
 purpose unless you direct us to. How we collect and use your
 information generally is also explained in our 
 [Privacy Policy](http://the.longaccess.com/terms/privacy_policy/).
 
-You are solely responsible for your conduct, the content of your
-archives, and your communications with others while using the
+You are solely responsible for your conduct, the content of Your
+Archives, and your communications with others while using the
 Services. For example, it’s your responsibility to ensure that you
 have the rights or permission needed to comply with these Terms as an
 Archive Certificate holder.
 
-The only content of your archives that we may view is metadata such
+The only content of Your Archives that we may view is metadata such
 as the following: the archive ID, the email address stated upon
-uploading archives to a Capsule, the date and time of such upload,
-the checksum and the indication of AES-256-CTR encryption. You
-acknowledge that Long Access has no obligation to monitor any
-information on the Services. We are not responsible for the legality
-of the archives or the content thereof or any other information you
-may be able to access using the Services.
+uploading archives, the date and time of such upload, the checksum
+and the indication of AES-256-CTR encryption. You acknowledge that
+Long Access has no obligation to monitor any information on the
+Services. We are not responsible for the legality of Your Archives or
+the content thereof or any other information you may be able to
+access using the Services.
 
 Please consider carefully sharing or making your Archive Certificate
 public. Long Access has no responsibility for that activity. We urge
@@ -89,23 +89,24 @@ information current. The Services are not intended for use by you if
 you are under 13 years of age. By agreeing to these Terms, you are
 representing to us that you are over 13.
 
-Our Responsibility
+Our responsibility
 
-Long Access will store your archives in the Capsule(s) you purchased
-and uploaded them to for the duration of such Capsule(s) and will
-keep your archives safe therein from any loss or corruption. Your
-archives are identified by their size stated in bytes and check sum
-indicated on each Archive Certificate. You or anyone with an Archive
-Certificate may, at any time during the thirty year period of a
-Capsule, retrieve archives by sending us the Archive ID indicated on
-the corresponding Archive Certificate. From the moment you request
-the retrieval of your archives from Long Access, it may take up to
-four (4) hours until Long Access emails you a link that enables you
-to download your archives.
+Long Access will store Your Archives in the Long Access Storage Space
+you purchased and uploaded them to for the duration of thirty (30)
+years and will keep Your Archives safe therein from any loss or
+corruption. Your Archives are identified by their Archive ID, size
+stated in bytes and check sum indicated on each Archive Certificate.
+You or anyone with an Archive Certificate may, at any time during the
+thirty year period of any of Your Archives, retrieve Your Archives by
+sending us the Archive ID indicated on the corresponding Archive
+Certificate. From the moment you request the retrieval of Your
+Archives from Long Access, it may take up to four (4) hours until
+Long Access emails you a link that enables you to download Your
+Archives. 
 
 If such Archive Certificate is lost and no copy thereto exists, then
-it is impossible for Long Access to retrieve the archives in
-question. The reason is that the key to decrypting your archives is
+it is impossible for Long Access to retrieve Your Archives in
+question. The reason is that the key to decrypting Your Archives is
 on the corresponding Archive Certificate. That is why we urge you to
 keep (hard) copies of Archive Certificates in a safe place.
 
@@ -207,9 +208,9 @@ Limitation of Liability
 You are responsible for maintaining and protecting all of your
 Archive Certificates.
 
-Long Access will be liable for any loss or corruption of your
-archives, or for any costs or expenses associated with backing up or
-restoring any of your archives for an amount per archive not greater
+Long Access will be liable for any loss or corruption of Your
+Archives, or for any costs or expenses associated with backing up or
+restoring any of Your Archives for an amount per archive not greater
 than the amounts paid by you to Long Access for the services in
 question.
 
