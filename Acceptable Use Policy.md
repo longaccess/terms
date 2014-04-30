@@ -12,7 +12,7 @@ Typical use cases may include but are not limited to preserving
 family photos and videos, or professional documents. In most cases,
 users are expected to share Archive Certificates with a limited
 number of interested parties, such as their family members, or
-business associates, which may result in a limited number of archive
+business associates, which may result in a limited number of Archive
 downloads over a given time period. We do not want to set hard
 limits, but you can be sure that sharing an Archive Certificate with
 10 people is inside the intended use limits. If you intend to share
@@ -21,7 +21,7 @@ Archive Certificates with a significantly larger number of people
 before purchasing Long Access Storage Space.
 
 Our service is not intended for public file sharing. We may
-automatically limit access to a specific archive for a short period
+automatically limit access to a specific Archive for a short period
 of time, in cases of uncommonly large amounts of traffic.
 
 You agree not to misuse the Long Access services.
@@ -37,8 +37,8 @@ intended for public file sharing.
 - breach or otherwise circumvent any security or authentication
 measures;
 - access, tamper with, or use non-public areas of the Service, shared
-areas of the Service you have not been invited to, Long Access (or
-our service providers’) computer systems;
+areas of the Service you have not been invited to, computer systems 
+operated by Long Access or by our service providers;
 - interfere with or disrupt any user, host, or network, for example
 by sending a virus, overloading, flooding, spamming, or mail-bombing
 any part of the Services;

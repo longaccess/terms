@@ -52,7 +52,7 @@ expiration date to any and all holders of any Archive Certificate or
 a copy thereof. You acquire your additional Long Access Storage Space
 the minute you sign up to Long Access and pay the corresponding fee.
 For this reason, we do not provide a refund should you decide to
-cancel your account following an upload of any archives.
+cancel your account following an upload of any Archives.
 
 In the case that you have not uploaded anything to the Long Access
 Storage Space you purchased for at least three (3) weeks since the

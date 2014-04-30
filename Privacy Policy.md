@@ -31,12 +31,12 @@ email account) or to use your social networking information if you
 give us access to your account on social network connection services.
 When you invite others to join Long Access by using our referral
 page, we send them a one-time email for that referral. When you
-upload your archives some of this personal information may form part
-of the metadata associated with your archives, as described in our
+upload your Archives some of this personal information may form part
+of the metadata associated with your Archives, as described in our
 Terms and Conditions of Service. Such metadata have the same life
 span as the corresponding Archive(s). This means that even if you
 cease to have a user account with Long Access, some of your personal
-information will survive such user account as part of your archives’
+information will survive such user account as part of your Archives'
 metadata.
 
 Archives.  
@@ -46,7 +46,7 @@ the Long Access Service (“Archives”).
 Log Data.  
 When you use the Service, we automatically record information from
 your Device, its software, and your activity using the Services. This
-may include the Device’s Internet Protocol (“IP”) address, browser
+may include the Device's Internet Protocol (“IP”) address, browser
 type, the web page visited before you came to our website,
 information you search for on our website, locale preferences,
 identification numbers associated with your Devices, your mobile
@@ -90,15 +90,15 @@ information from your mobile device at any time while you download or
 use our mobile apps as of the date this policy went into effect, but
 may do so in the future with your consent to improve our Services.
 Also, some of the information we collect from a Device, for example
-IP address, can sometimes be used to approximate a Device’s location.
+IP address, can sometimes be used to approximate a Device's location.
 
 Analytics.  
 We also collect some information (ourselves or using third party
 services) using logging and cookies, such as IP address, which can
 sometimes be correlated with Personal Information. We use this
 information for the above purposes and to monitor and analyze use of
-the Service, for the Service’s technical administration, to increase
-our Service’s functionality and user-friendliness, and to verify
+the Service, for the Service's technical administration, to increase
+our Service's functionality and user-friendliness, and to verify
 users have the authorization needed for the Service to process their
 requests. As of the date this policy went into effect, we use Google
 Analytics. To learn more about the privacy policy of Google
@@ -108,11 +108,10 @@ click here.
 Information Sharing and Disclosure
 
 Your Use.  
-
 Your Personal Information will be displayed on your user profile
 page. Some of Your Personal Information such as your name and email
-address will be displayed on your archives page and become part of
-the metadata associated with your archives, as described above under
+address will be displayed on your Archives page and become part of
+the metadata associated with your Archives, as described above under
 “The Information You Provide”. You can review and revise your user
 profile information at any time. We do not sell your personal
 information to third parties. We will take measures to prevent
@@ -123,20 +122,18 @@ your information with your consent, for example if you use a third
 party application to access your account (see below).
 
 Service Providers, Business Partners and Others.  
-
 We may use certain trusted third party companies and individuals to
 help us provide, analyze, and improve the Service (including but not
 limited to data storage, maintenance services, database management,
-web analytics, payment processing, and improvement of the Service’s
+web analytics, payment processing, and improvement of the Service's
 features). These third parties may have access to your information
 only for purposes of performing these tasks on our behalf and under
 obligations similar to those in this Privacy Policy. As of the date
-this policy went into effect, we use Amazon’s S3 storage and Amazon’s
+this policy went into effect, we use Amazon's S3 storage and Amazon's
 Glacier services to store some of your information (for example, your
 Files).
 
 Third-Party Applications.  
-
 We may share your information with a third party application with
 your consent, for example when you choose to access our Services
 through such an application. We are not responsible for what those
@@ -145,19 +142,17 @@ the application and that it has a privacy policy acceptable to you.
 
 Compliance with Laws and Law Enforcement Requests; Protection of Long
 Access's Rights.
-
 We may disclose to parties outside Long Access files stored in your
 account in their encrypted form and information about you that we
 collect when we have a good faith belief that disclosure is
 reasonably necessary to (a) comply with a law, regulation or
 compulsory legal request; (b) protect the safety of any person from
 death or serious bodily injury; (c) prevent fraud or abuse of Long
-Access or its users; or (d) to protect Long Access’s property rights.
+Access or its users; or (d) to protect Long Access' property rights.
 However, Long Access will not be able to decrypt any files that you
 encrypted prior to storing them on Long Access.
 
 Business Transfers.
-
 If we are involved in a merger, acquisition, or sale of all or a
 portion of our assets, your information may be transferred as part of
 that transaction, but we will notify you (for example, via email
@@ -167,7 +162,6 @@ subject to a different Privacy Policy. We will also notify you of
 choices you may have regarding the information.
 
 Non-private or Non-Personal Information.  
-
 We may disclose your non-private, aggregated, or otherwise
 non-personal information, such as usage statistics of our Service.
 
@@ -181,10 +175,10 @@ desire our service, you may update or delete it by making the change
 on your account settings. Please remember that any update, change or
 deletion of your Personal Information contained in your account
 profile does not and will not in any way and in case alter your
-Personal Information included as metadata of your archives. For
+Personal Information included as metadata of your Archives. For
 example, if you update your email address on your account profile,
-the metadata of your archives will still contain the email address
-you indicated upon uploading your archives. In some cases we may
+the metadata of your Archives will still contain the email address
+you indicated upon uploading your Archives. In some cases we may
 retain copies of your information if required by law. For questions
 about your Personal Information on our Service, please contact
 privacy@longaccess.com. We will respond to your inquiry within 30
@@ -203,9 +197,9 @@ try to delete your personal account information quickly upon request.
 Please note, however, that there might be latency in deleting
 information from our servers and backed-up versions might exist after
 deletion. Your personal account information included in the metadata
-of your archives such as your name and email address, cannot be
+of your Archives such as your name and email address, cannot be
 deleted in any case; as metadata, they are an integral part of your
-archives from the minute of upload thereof and will be retained for
+Archives from the minute of upload thereof and will be retained for
 the life time of each corresponding Archive. 
 
 Long Access Community

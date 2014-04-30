@@ -2,15 +2,15 @@ Terms and Conditions of Service
 
 Last Modified: April 29, 2014
 
-Thank you for using Long Access! These terms of service (the “Terms”)
+Thank you for using Long Access! These Terms of service (the “Terms”)
 govern your access to and use of Long Access (“we” or “our”) websites
-and services (the “Services”), so please carefully read them before
+and services (the “Services”), so please read them carefully before
 using the Services.
 
 By using the Services you agree to be bound by these Terms. If you
 are using the Services on behalf of an organization, you are agreeing
 to these Terms for that organization and promising that you have the
-authority to bind that organization to these terms. In that case,
+authority to bind that organization to these Terms. In that case,
 “you” and “your” will refer to that organization.
 
 You may use the Services only in compliance with these Terms. You may
@@ -23,21 +23,21 @@ Your Archives & Your Privacy
 
 By using our Services you provide us with information, files, and
 folders that you submit to Long Access (together, “Your Archives”).
-You retain full ownership of the content of Your Archives. We don’t
+You retain full ownership of the content of Your Archives. We do not
 claim any ownership to such content. These Terms do not grant us any
 rights to the content of Your Archives or intellectual property,
 except for the limited rights that are needed to run the Services, as
 explained below.
 
 In providing the Services we shall not require any permission from
-you with regards to Your Archives. This includes design choices we
+you regarding Your Archives. This includes design choices we
 make to technically administer our Services, for example, how we
 redundantly backup data to keep it safe. By signing these Terms of
 Service You give us the permissions we need to proceed to all
 technical tasks required to provide the Services. This permission
 also extends to trusted third parties we work with to provide the
 Services, for example Amazon, which provides our storage space;
-however such permission is extended only for the provision of the
+however, such permission is extended only for the provision of the
 Services.
 
 To be clear, aside from the rare exceptions we identify in our
@@ -50,13 +50,13 @@ information generally is also explained in our
 
 You are solely responsible for your conduct, the content of Your
 Archives, and your communications with others while using the
-Services. For example, it’s your responsibility to ensure that you
+Services. For example, it is your responsibility to ensure that you
 have the rights or permission needed to comply with these Terms as an
 Archive Certificate holder.
 
 The only content of Your Archives that we may view is metadata such
-as the following: the archive ID, the email address stated upon
-uploading archives, the date and time of such upload, the checksum
+as the following: the Archive ID, the email address stated upon
+uploading Archives, the date and time of such upload, the checksum
 and the indication of AES-256-CTR encryption. You acknowledge that
 Long Access has no obligation to monitor any information on the
 Services. We are not responsible for the legality of Your Archives or
@@ -66,7 +66,7 @@ access using the Services.
 Please consider carefully sharing or making your Archive Certificate
 public. Long Access has no responsibility for that activity. We urge
 you to keep any and all copies of Archive Certificates safe. In case
-an Archive Certificate and /or the content thereof is stolen, the
+an Archive Certificate and/or the content thereof is stolen, the
 culprit shall be able to access any and all files stored in the
 corresponding Archive. We may automatically limit your downloads for
 a short period of time, in cases of uncommonly large amounts of
@@ -81,7 +81,7 @@ download, or share files unless you have the right to do so. You, not
 Long Access, will be fully responsible and liable for what you copy,
 share, upload, download or otherwise use while using the Services.
 You must not upload spyware or any other malicious software to the
-Service.
+Services.
 
 If your contact information, or other information related to your
 account, changes, you must notify us promptly and keep your
@@ -95,7 +95,7 @@ Long Access will store Your Archives in the Long Access Storage Space
 you purchased and uploaded them to for the duration of thirty (30)
 years and will keep Your Archives safe therein from any loss or
 corruption. Your Archives are identified by their Archive ID, size
-stated in bytes and check sum indicated on each Archive Certificate.
+stated in bytes and checksum indicated on each Archive Certificate.
 You or anyone with an Archive Certificate may, at any time during the
 thirty year period of any of Your Archives, retrieve Your Archives by
 sending us the Archive ID indicated on the corresponding Archive
@@ -146,14 +146,14 @@ websites or resources.
 
 Long Access Property and Feedback
 
-These terms do not grant you any right, title, or interest in the
+These Terms do not grant you any right, title, or interest in the
 Services, Software, or the content in the Services. While we
 appreciate it when users send us feedback, please be aware that we
 may use any feedback, comments, or suggestions you send us or post in
 our forums without any obligation to you. The Software and other
 technology we use to provide the Services are protected by copyright,
 trademark, and other laws of both the European Union and the
-applicable laws its member states. These Terms do not grant you any
+applicable laws of its member states. These Terms do not grant you any
 rights to use the Long Access trademarks, logos, domain names, or
 other brand features.
 
@@ -165,8 +165,8 @@ use the Services only in a manner consistent with the
 
 Copyright
 
-Long Access respects others’ intellectual property and asks that you
-do too. We will respond to notices of alleged copyright infringement
+Long Access respects others' intellectual property and asks that you
+do, too. We will respond to notices of alleged copyright infringement
 if they comply with the law and are properly provided to us. We
 reserve the right to delete or disable content alleged to be
 infringing and to terminate repeat infringers. Please send your
@@ -180,12 +180,12 @@ copyright@longaccess.com
 
 Termination
 
-Though we’d much rather you stay, you can stop using our Services any
+Though we would prefer you stayed, you can stop using our Services at any
 time. We reserve the right to suspend or end the Services at any
 time, with or without cause, and with or without notice. For example,
 we may suspend or terminate your use if you are not complying with
 these Terms, or use the Services in any way that would cause us legal
-liability or disrupt others’ use of the Services. If we suspend or
+liability or disrupt others' use of the Services. If we suspend or
 terminate your use, we will let you know in advance and retrieve your
 data, though there may be some cases (for example, repeatedly or
 flagrantly violating these Terms, a court order, or danger to other
@@ -194,8 +194,8 @@ users) where we may suspend immediately.
 Long Access is Available “AS-IS”
 
 Though we want to provide a great service, there are certain things
-about the service we can’t promise. For example, the services and
-software are provided “as is”, at your own risk, without express or
+about the service we cannot promise. For example, the services and
+software are provided “as-is”, at your own risk, without express or
 implied warranty or condition of any kind. We also disclaim any
 warranties of merchantability, fitness for a particular purpose or
 non-infringement. Long Access will have no responsibility for any
@@ -210,7 +210,7 @@ Archive Certificates.
 
 Long Access will be liable for any loss or corruption of Your
 Archives, or for any costs or expenses associated with backing up or
-restoring any of Your Archives for an amount per archive not greater
+restoring any of Your Archives for an amount per Archive not greater
 than the amounts paid by you to Long Access for the services in
 question.
 
@@ -220,7 +220,7 @@ be liable for any indirect, special, incidental, punitive, exemplary
 or consequential (including loss of use, data, business, or profits)
 damages, regardless of legal theory, whether or not Long Access has
 been warned of the possibility of such damages, and even if a remedy
-fails of its essential purpose; Long Access’s aggregate liability for
+fails of its essential purpose; Long Access' aggregate liability for
 all claims relating to the services shall not exceed the amounts paid
 by you to Long Access for the services in question.
 
@@ -233,22 +233,22 @@ email to the email address stated in your account profile).
 
 Miscellaneous Legal Terms
 
-These terms and the use of the services and software will be governed
+These Terms and the use of the services and software will be governed
 by the laws of the Hellenic Republic except for the conflict of laws
 principles thereof. All claims arising out of or relating to these
-terms or the services or software must be litigated exclusively in
+Terms or the services or software must be litigated exclusively in
 the courts of Athens, Greece, and both parties consent to venue and
 personal jurisdiction there. These Terms constitute the entire and
 exclusive agreement between you and Long Access with respect to the
 Services, and supersede and replace any other agreements, terms and
 conditions applicable to the Services. These Terms create no third
-party beneficiary rights. Long Access’s failure to enforce a
+party beneficiary rights. Long Access' failure to enforce a
 provision is not a waiver of its right to do so later. If a provision
 is found unenforceable the remaining provisions of the Agreement will
 remain in full effect and an enforceable term will be substituted
 reflecting our intent as closely as possible. By providing access to
 your Archive Certificate(s) you grant your rights to access, decrypt
-and share the corresponding archives to any and all persons that
+and share the corresponding Archives to any and all persons that
 acquire such access. Long Access may assign its rights to any of its
 affiliates or subsidiaries, or to any successor in interest of any
 business associated with the Services. Long Access and you are not
