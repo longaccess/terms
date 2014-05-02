@@ -1,6 +1,6 @@
 Pricing Terms and Conditions
 
-Last Modified: April 29, 2014
+Last Modified: May 2, 2014
 
 Paid Long Αccess Storage Space
 

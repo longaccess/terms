@@ -1,6 +1,6 @@
 Acceptable Use Policy
 
-Last Modified: April 29, 2014
+Last Modified: May 2, 2014
 
 We are proud of the trust placed in us. In exchange, we trust you to
 use our services responsibly.

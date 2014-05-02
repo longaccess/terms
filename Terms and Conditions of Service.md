@@ -1,6 +1,6 @@
 Terms and Conditions of Service
 
-Last Modified: April 29, 2014
+Last Modified: May 2, 2014
 
 Thank you for using Long Access! These Terms of service (the “Terms”)
 govern your access to and use of Long Access (“we” or “our”) websites

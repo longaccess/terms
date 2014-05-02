@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Modified: April 29, 2014
+Last Modified: May 2, 2014
 
 This Privacy Policy provides our policies and procedures for
 collecting, using, and disclosing your information. Users can access
